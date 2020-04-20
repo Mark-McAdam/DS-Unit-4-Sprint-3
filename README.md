@@ -26,3 +26,17 @@ This week we will review several popular feed-forward neural network architectur
 
 
 Hello world testing
+
+
+mkl-fft==1.0.12         1.1.0
+mkl-random==1.0.2       1.1.1
+mkl-service==2.0.2      2.3.0
+
+1.1.0
+conda install -c conda-forge mkl_fft
+
+1.1.1
+conda install -c conda-forge mkl_random
+
+2.3.0
+conda install -c anaconda mkl-service
